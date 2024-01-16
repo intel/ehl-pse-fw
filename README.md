@@ -1,4 +1,4 @@
-DISCONTINUATION OF PROJECT
+PROJECT NO LONGER UNDER ACTIVE MANAGEMENT
 
 This project will no longer be maintained by Intel.
 
